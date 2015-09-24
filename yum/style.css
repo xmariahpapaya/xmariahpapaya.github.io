@@ -59,44 +59,18 @@ table {
 
 
 <!DOCTYPE html>
-
-
-
-<style>
-
-#recipe-title h1 a {
- font-family:'Brush Script MT', cursive;
- font-size:10px;
- }
- 
- </style>
-
-
-<style>
-
-.recipe h1 a {
- font-family:Georgia;
- font-size:10px;
- }
- 
- </style>
- 
- 
-
-
-
-
 <html>
   <head>	
 	
 	<title>yum!</title>
   </head>
   <body>
-	  <header id='recipe-title'>
-	  <h1>>Wild Arugala Salad
+	  <header>
+	  <h1>
+		  Wild Arugala Salad
 	  </h1>
   </header>
-	  <p><. id='title'>
+	  <p>
 		  with garlic croutons, shaved parmesan, and lemon
 	  </p>
 	  <p>
@@ -126,10 +100,6 @@ table {
 			   </ul>
 		  </p>
 
-		  
-		  
-		  <p><a href='/yum/card1'>Recipe Card</a></p>
-
 
 
 
@@ -137,5 +107,3 @@ table {
 
   </body>
 </html>
-
-
