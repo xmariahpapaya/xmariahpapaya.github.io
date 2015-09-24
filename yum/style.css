@@ -48,3 +48,56 @@ table {
 }
 
 /* END OF RESET - Start of Your CSS*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+#recipe-title h1 a {
+ font-family:georgia;
+ font-size:20px;
+ }
+</style>
+
+
+<style>
+#recipe-extras h3 a {
+	font-family:helvetica;
+	font-size:11px;
+ }
+</style>
+
+
+
+
+
+
+
+
+
+<header id='recipe-title'>
+ <h1><a href='#'>Wild Arugala Salad</a></h1>
+</header>
+
+
+
+
+
+
+<header id='recipe-extras'>
+ <h3><a href='#'>with garlic croutons, shaved parmesan, and lemon - makes 6 servings</a></h1>
+</header>
