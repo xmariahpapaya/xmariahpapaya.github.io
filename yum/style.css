@@ -62,35 +62,39 @@ table {
 
 
 
+<body>
+
+
 
 
 
 
 <style>
-#recipe-title h1 a {
+#recipe h1 {
  font-family:georgia;
  font-size:20px;
+ margin-bottom:10px;
  }
 </style>
+
+
+<div id="recipe"><h1 class='recipe'>
+Wild Arugala Salad</h1></div>
+</header>
+
+
 
 
 <style>
-#recipe-extras h3 a {
-	font-family:helvetica;
-	font-size:11px;
+#extras p {
+ font-family:helvetica;
+ font-size:10px;
  }
 </style>
 
 
-
-
-
-
-
-
-
-<header id='recipe-title'>
- <h1><a href='#'>Wild Arugala Salad</a></h1>
+<div id="extras"><p class='recipe'>
+with garlic croutons, shaved parmesan, and lemon</p></div>
 </header>
 
 
@@ -98,6 +102,5 @@ table {
 
 
 
-<header id='recipe-extras'>
- <h3><a href='#'>with garlic croutons, shaved parmesan, and lemon - makes 6 servings</a></h1>
-</header>
+
+</body>
