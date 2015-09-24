@@ -72,31 +72,88 @@ table {
 <style>
 #recipe h1 {
  font-family:georgia;
- font-size:20px;
- margin-bottom:10px;
+ font-size:30px;
+ padding-bottom:10px;
  }
 </style>
-
-
-<div id="recipe"><h1 class='recipe'>
-Wild Arugala Salad</h1></div>
-</header>
-
-
 
 
 <style>
 #extras p {
  font-family:helvetica;
  font-size:10px;
+    margin:5px;
  }
 </style>
 
 
-<div id="extras"><p class='recipe'>
-with garlic croutons, shaved parmesan, and lemon</p></div>
-</header>
+<style>
+#category p {
+ font-family:helvetica;
+ font-size:12px;
+ text-transform:uppercase;
+ margin-top:6px;
+    font-weight:bold;
+ }
+</style>
 
+<style>
+#list p {
+ font-family:helvetica;
+ font-size:10px;
+    margin:5px;
+    margin-left:110px;
+ }
+</style>
+
+
+
+<div id="recipe"><h1 class='recipe'>
+Wild Arugala Salad</h1></div>
+
+
+<div id="extras"><p class='recipe'>
+with garlic croutons, shaved parmesan,
+<p>and lemon • makes 6 servings</p>
+
+<br><br>
+
+
+
+<div id="category"><p class='recipe'>
+  <u>ingredients</u></p></div>
+
+
+
+<div id="list"><p class='ingredients'>
+  <p>1 8-oz piece ciabatta with crust (preferably day-old)</p>
+ <p>1 large garlic clove, peeled</p>
+ <p>1/4 c + 3 tbsp extra-virgin olive oil</p>
+ <p>6 oz arugala (about 10 cups packed)</p>
+ <p>2 tbsp (or more) fresh lemon juice</p>
+ <p>3 oz parmesan cheese, shaved into strips</p>
+  </p></div>
+
+
+<br>
+
+<div id="category"><p class='recipe'>
+  <u>preparation</u></p></div>
+
+
+
+<div id="list"><p class='preparation'>
+  Preheat oven to 400°F. Rub crust of bread with garlic clove.
+  <p>Tear bread into 1-inch pieces and place in large bowl; toss with ¼ cup olive
+  <p>oil. Sprinkle bread lightly with salt; arrange in single layer on rimmed
+  <p>baking sheet. Bake until golden and crisp around edges, about 10
+  <p>min. Cool.
+  <p>Place arugula in large bowl. Drizzle with 3 tbsp olive oil and 2 tbsp
+    <p>lemon juice, adding more lemon juice, if desired. Sprinkle with salt and
+    <p>pepper. Add 2⁄3 of croutons and half of Parmesan cheese and toss.</p>
+    <p>Transfer to serving bowl; scatter remaining croutons and Parmesan
+      <p>cheese over and serve.</p>
+  </p>
 
 
 
