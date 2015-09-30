@@ -57,11 +57,31 @@ body {
 	
 }
 
+
 article {
 	float:left;
-	background-color:pink;
-	width:500px;
-	margin:20px;
+	background-color:white;
+	width:40%;
+	margin-left:5%;
+	margin-right:5%;
 }
 
+img {
+	float:left;
+	margin-right:20px;
+	margin-bottom:7px;
+}
 
+p {
+	font-size:12px;
+}
+
+h1 {
+	font-weight:bold;
+	font-size:18px;
+}
+
+h2 {
+	font-color:gray;
+	font-size:10px;
+}
