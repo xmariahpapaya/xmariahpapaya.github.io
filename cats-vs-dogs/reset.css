@@ -66,6 +66,7 @@ p {
 	line-height:18px;
 }
 
+
 nav li {
 	float:left;
 	margin:20px;
@@ -131,12 +132,5 @@ footer {
 	float: left;
 	padding-bottom:20px;
 		}
-		
-		
-		#martha {
-			position:absolute;
-			bottom:0px;
-			left:780px;
-		}
-		
+
 	

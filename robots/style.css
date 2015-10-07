@@ -107,6 +107,9 @@ p {
 }
 
 
+
+
+
 #content-wrapper {
 	width:600px;
 }
@@ -117,6 +120,7 @@ p {
 	text-color:#7F5217;
 	position:relative;
 	left:600px;
+	width:300px;
 }
 
 
@@ -139,6 +143,8 @@ li {
 #page {
 	padding-left:100px;
 	padding-right:100px;
+	position:relative;
+	top:70px;
 }
 
 
@@ -151,6 +157,14 @@ li {
 #main-menu a {
 	color:white;
 	text-decoration:none;
+	position:relative;
+	left:80px;
+}
+
+#menu-wrapper {
+	position:absolute;
+	top:80px;
+	width:1000px;
 }
 
 #top-nav a {
@@ -161,6 +175,7 @@ li {
 #footer-contact p {
 	color:white;
 	width:120px;
+	margin-left:200px;
 }
 
 
@@ -175,4 +190,16 @@ li {
 #site-header {
 	padding-left:100px;
 	padding-right:100px;
+}
+
+
+#footer-follow {
+	margin-left:500px;
+	position:absolute;
+	top:975px;
+}
+
+
+#footer-wrapper {
+clear:both;
 }
