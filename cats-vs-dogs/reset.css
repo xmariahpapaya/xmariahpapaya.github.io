@@ -60,6 +60,10 @@ body {
 
 p {
 	font-size:12px;
+	width:250px;
+	float:left;
+	padding-left:280px;
+	line-height:14px;
 }
 
 nav li {
@@ -67,35 +71,41 @@ nav li {
 	margin:20px;
 }
 
-nav {
+ul {
 	border-top:2px solid black;
 	border-bottom:2px solid black;
 	margin-top:40px;
 	height:55px;
+	font-weight:bold;
 }
 
 h1 {
 	font-weight:bold;
+	float:left;
+	padding-left:280px;
+	padding-bottom:12px;
 }
 
-article {
-	float:left;
-}
+
 
 img {
 	width:250px;
+	float:left;
+	padding-left:8px;
+	padding-right:8px;
+	padding-bottom:15px;
 }
 
 footer {
 	font-size:8px;
+	padding-top:500px;
 }
 
-#article1 {
-	clear:both;
+
+#dogs {
 	float:left;
 }
 
-#article2 {
-	clear:both;
-	float:right;
+#cats {
+	float:left;
 }
