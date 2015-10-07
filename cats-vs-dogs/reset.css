@@ -91,11 +91,11 @@ h1 {
 
 
 footer {
-	font-size:8px;
+	font-size:10px;
 	padding-top:500px;
 	position:absolute;
 	bottom:0px;
-	left:0px;
+	left:290px;
 }
 
 #dog {
@@ -123,18 +123,20 @@ footer {
 	
 	
 #dogpic {
-	padding-left:280px;
+	float: left;
+	padding-bottom:20px;
 }
 	
 #catpic {
-	padding-left:280px
+	float: left;
+	padding-bottom:20px;
 		}
 		
 		
 		#martha {
 			position:absolute;
 			bottom:0px;
-			left:1050px;
+			left:780px;
 		}
 		
 	
