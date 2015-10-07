@@ -82,6 +82,7 @@ h3 {
 	font-weight:bold;
 	text-transform:uppercase;
 	color:#C19A6B;
+	padding-bottom:8px;
 }
 
 nav li {
@@ -118,9 +119,6 @@ p {
 	left:600px;
 }
 
-#site-footer {
-	background-color:#7F5217;
-}
 
 li {
 	padding-bottom:8px;
@@ -152,7 +150,7 @@ li {
 
 #main-menu a {
 	color:white;
-	text-decoration:none
+	text-decoration:none;
 }
 
 #top-nav a {
@@ -160,16 +158,21 @@ li {
 	text-decoration:none;
 }
 
-
-
-
-
-
-a #sidebar {
-	color:#7F5217;
-	text-decoration:none;
+#footer-contact p {
+	color:white;
+	width:120px;
 }
 
-a #main-menu {
-	color:white;
+
+#site-footer {
+	background-color:#7F5217;
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:10px;
+}
+
+
+#site-header {
+	padding-left:100px;
+	padding-right:100px;
 }
