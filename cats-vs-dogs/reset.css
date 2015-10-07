@@ -55,15 +55,15 @@ table {
 
 body {
 	font-family:Georgia;
-	font-size:18px;
+	font-size:20px;
 }
 
 p {
-	font-size:12px;
-	width:250px;
+	font-size:14px;
+	width:300px;
 	float:left;
 	padding-left:280px;
-	line-height:14px;
+	line-height:18px;
 }
 
 nav li {
@@ -71,12 +71,14 @@ nav li {
 	margin:20px;
 }
 
+
 ul {
-	border-top:2px solid black;
-	border-bottom:2px solid black;
-	margin-top:40px;
+	margin-top:20px;
 	height:55px;
 	font-weight:bold;
+	border-top:4px solid black;
+	border-bottom:4px solid black;	
+	margin-bottom:20px;
 }
 
 h1 {
@@ -84,16 +86,9 @@ h1 {
 	float:left;
 	padding-left:280px;
 	padding-bottom:12px;
+	width:400px;
 }
 
-
-img {
-	width:250px;
-	float:left;
-	padding-left:8px;
-	padding-right:8px;
-	padding-bottom:15px;
-}
 
 footer {
 	font-size:8px;
@@ -102,3 +97,44 @@ footer {
 	bottom:0px;
 	left:0px;
 }
+
+#dog {
+	clear:both;
+	width:250px;
+	float:left;
+	padding-left:8px;
+	padding-right:8px;
+	padding-right:70px;
+}
+
+#cat {
+	width:250px;
+	float:left;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+
+#logo {
+	margin-top:20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
+	
+#dogpic {
+	padding-left:280px;
+}
+	
+#catpic {
+	padding-left:280px
+		}
+		
+		
+		#martha {
+			position:absolute;
+			bottom:0px;
+			left:1050px;
+		}
+		
+	
