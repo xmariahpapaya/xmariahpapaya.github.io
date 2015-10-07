@@ -87,7 +87,6 @@ h1 {
 }
 
 
-
 img {
 	width:250px;
 	float:left;
@@ -99,13 +98,4 @@ img {
 footer {
 	font-size:8px;
 	padding-top:500px;
-}
-
-
-#dogs {
-	float:left;
-}
-
-#cats {
-	float:left;
 }
