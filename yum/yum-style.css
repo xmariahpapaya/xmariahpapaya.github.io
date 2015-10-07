@@ -54,9 +54,46 @@ table {
 
 
 h1 {
-	font-family:Helvetica;
+	font-family:cursive;
+	font-size:36px;
+	font-weight:bold;
+	padding-top:50px;
+	padding-left:50px;
+	padding-bottom:10px;
 }
 
 h2 {
 	font-size:12px;
+	font-weight:bold;
+	font-family:Helvetica;
+	padding-left:50px;
+	padding-bottom:10px;
+	letter-spacing:2.5px;
+}
+
+h3 {
+	font-family:Helvetica;
+	font-size:10.5px;
+	padding-left:50px;
+	padding-bottom:50px;
+	width:280px;
+	letter-spacing:2px;
+	line-height:16px;
+}
+
+ul {
+	font-family:Helvetica;
+	font-size:12px;
+	padding-left:50px;
+	padding-bottom:40px;
+	line-height:14px;
+}
+
+p {
+	font-family:Helvetica;
+	font-size:12px;
+	padding-left:50px;
+	padding-bottom:10px;
+	width:340px;
+	line-height:14px;
 }
