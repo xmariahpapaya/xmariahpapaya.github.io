@@ -70,6 +70,8 @@ p {
 nav li {
 	float:left;
 	margin:20px;
+	position:relative;
+	left:290px;
 }
 
 
@@ -95,9 +97,11 @@ footer {
 	font-size:10px;
 	padding-top:500px;
 	position:absolute;
+	top:300px;
 	bottom:0px;
 	left:290px;
 }
+
 
 #dog {
 	clear:both;
@@ -126,11 +130,15 @@ footer {
 #dogpic {
 	float: left;
 	padding-bottom:20px;
+	position:relative;
+	left:280px;
 }
 	
 #catpic {
 	float: left;
 	padding-bottom:20px;
+	position:relative;
+	left:280px;
 		}
 
 	
