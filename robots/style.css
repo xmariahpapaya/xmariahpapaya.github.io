@@ -150,7 +150,8 @@ li {
 
 #sidebar a {
 	color:#7F5217;
-	text-decoration:none
+	text-decoration:none;
+
 }
 
 
@@ -202,4 +203,11 @@ li {
 
 #footer-wrapper {
 clear:both;
+}
+
+
+
+aside {
+	position:relative;
+	bottom:250px;
 }
