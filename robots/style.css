@@ -165,7 +165,7 @@ li {
 #menu-wrapper {
 	position:absolute;
 	top:80px;
-	width:1000px;
+	width:1155px;
 }
 
 #top-nav a {
@@ -175,7 +175,6 @@ li {
 
 #footer-contact p {
 	color:white;
-	width:120px;
 	margin-left:200px;
 }
 
@@ -197,17 +196,21 @@ li {
 #footer-follow {
 	margin-left:500px;
 	position:absolute;
-	top:975px;
+	top:850px;
+	left:150px;
 }
-
-
-#footer-wrapper {
-clear:both;
-}
-
 
 
 aside {
 	position:relative;
 	bottom:250px;
+}
+
+p2 {
+	font-family:Helvetica;
+	font-size:11px;
+	color:white;
+	position:relative;
+	left:0px;
+	
 }
