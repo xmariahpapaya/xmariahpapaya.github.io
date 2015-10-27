@@ -70,8 +70,6 @@ p {
 nav li {
 	float:left;
 	margin:20px;
-	position:relative;
-	left:290px;
 }
 
 
@@ -98,7 +96,6 @@ footer {
 	padding-top:500px;
 	position:absolute;
 	top:300px;
-	bottom:0px;
 	left:290px;
 }
 
@@ -124,7 +121,9 @@ footer {
 	margin-top:20px;
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto;
+	max-width:100%
+ }
 	
 	
 #dogpic {
@@ -132,6 +131,8 @@ footer {
 	padding-bottom:20px;
 	position:relative;
 	left:280px;
+	max-width:100%
+	max-height:100%
 }
 	
 #catpic {
@@ -139,6 +140,31 @@ footer {
 	padding-bottom:20px;
 	position:relative;
 	left:280px;
-		}
+	max-width:100%
+	max-height:100%
+}
 
 	
+
+
+@media screen and (max-width:950px) {
+  h1 { font-size:.8em; padding:0; margin:0; }
+  p { padding:0; font-size:12px; }
+  ul { float:none; left:0; font-size:1em; }
+  nav { float:none; left:0; font-size:.5em; }
+  footer { top:250px; left:8px; }
+  #catpic { left:0; width:15em; height:15em; }
+  #dogpic { left:0; width:15em; height:15em;  }
+  #logo { width:15em; }
+}
+
+ @media screen and (max-width:700px) {
+  h1 { font-size:.7em; padding:0; }
+  p { padding:0; font-size:10px; }
+  ul { float:none; left:0; font-size:1em; }
+  nav { float:none; left:0; font-size:.5em; }
+  footer { top:400px; left:8px; }
+  #catpic { left:0; width:10em; height:10em; }
+  #dogpic { left:0; width:10em; height:10em; }
+  #logo {width:10em;}
+  }
