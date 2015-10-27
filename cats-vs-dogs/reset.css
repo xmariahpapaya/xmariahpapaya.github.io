@@ -150,8 +150,8 @@ footer {
 @media screen and (max-width:950px) {
   h1 { font-size:.8em; padding:0; margin:0; }
   p { padding:0; font-size:12px; }
-  ul { float:none; left:0; font-size:1em; }
-  nav { float:none; left:0; font-size:.5em; }
+  ul { float:none; left:0; font-size:.9em; }
+  nav { float:none; left:0; font-size:.7em; }
   footer { top:250px; left:8px; }
   #catpic { left:0; width:15em; height:15em; }
   #dogpic { left:0; width:15em; height:15em;  }
