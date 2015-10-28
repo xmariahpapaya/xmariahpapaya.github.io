@@ -1,3 +1,6 @@
+
+
+/* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -47,11 +50,13 @@ table {
 	border-spacing: 0;
 }
 
-/* Add Styles Here */
-body { font-family:Georgia; font-size:14px; }
-section#content { margin:0 auto; width:960px; padding:50px 50px; }
-a {text-decoration:none; color:#669933}
+/* -----------------END RESET---------------- */
 
-h1 { font-family:Helvetica; text-transform:uppercase; font-size:50px; font-weight:bold; color:black;  }
-h2 { font-size:25px; font-weight:bold; color:black;  padding-top:30px;}
-p { font-size:20px; padding-top:10px; padding-left:50px; color:#cccccc;}
+
+p { font-family:Helvetica; color:black;}
+section#content { margin:0 auto; width:960px; padding:50px 50px; }
+a {text-decoration:none; color:lightgray}
+
+h1 { font-family:Georgia; font-size:34px; font-weight:bold; color:gray;  }
+h2 { font-size:18px; text-transform:uppercase; font-family:Helvetica; font-weight:bold; color:black;  padding-top:30px; color:teal; }
+p { font-size:14px; padding-top:10px; padding-left:50px; color:black;}
