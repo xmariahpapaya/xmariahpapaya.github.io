@@ -169,10 +169,6 @@ footer {
 }
 
 
-a:link {
-	color:red;
-
-}
 
 @media screen and (max-width:950px) {
   h1 { font-size:.8em; padding:0; margin:0; }
@@ -180,8 +176,6 @@ a:link {
   ul { float:none; left:0; font-size:.9em; }
   nav { float:none; left:0; font-size:.7em; }
   footer { top:250px; left:8px; }
-  #catpic { left:0; width:15em; height:15em; }
-  #dogpic { left:0; width:15em; height:15em;  }
   #logo { width:15em; }
 }
 
@@ -191,8 +185,6 @@ a:link {
   ul { float:none; left:0; font-size:1em; }
   nav { float:none; left:0; font-size:.5em; }
   footer { top:400px; left:8px; }
-  #catpic { left:0; width:10em; height:10em; }
-  #dogpic { left:0; width:10em; height:10em; }
   #logo {width:10em;}
   }
   
