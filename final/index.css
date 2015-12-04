@@ -65,7 +65,7 @@ body {
 
 nav {
 	width:250px;
-	height:900px;
+	height:1091px;
 	background-color:white;
 
 }
@@ -78,9 +78,9 @@ nav {
 }
 
   h1 {
- 	font-family:helvetica;
+    font-family: 'Open Sans', sans-serif;
 	color:#D2D2D2;
- 	font-size: 12px;
+ 	font-size: 11.5px;
  	font-weight:bold;
 	text-transform:uppercase;
 	letter-spacing:.3em;
@@ -89,10 +89,11 @@ nav {
   }
   
 p {
- 	font-family:helvetica;
- 	font-size:10px;
+    font-family: 'Open Sans', sans-serif;
+	font-size:10px;
 	color:#1C1C1C;
-	line-height:130%;
+	line-height:180%;
+	letter-spacing:.035em;
 	width:190px;
 	padding-bottom:6px;
 
@@ -102,6 +103,9 @@ p {
 #socialmedia {
 	padding-top:20px;
 	padding-left:7%;
+	position:relative;
+	top:25px;
+	left:12px;
 
 }
 
@@ -161,11 +165,12 @@ img:hover {
 
 
 footer {
-	font-family:helvetica;
+    font-family: 'Open Sans', sans-serif;
+	font-size:10px;
 	color:lightgray;
 	font-size:10px;
 	position:relative;
-	top:320px;
+	top:430px;
 }
 
 
