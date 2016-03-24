@@ -53,6 +53,23 @@ table {
 /* -----------------END RESET---------------- */
 
 
+a {
+    color: #BCDE33;
+}
+
+
+a:visited {
+	
+	color: #BCDE33;
+}
+
+
+a:hover {
+	
+	color: orange;
+}
+
+
 
 body {
 	background-color:#E6E6E6;
